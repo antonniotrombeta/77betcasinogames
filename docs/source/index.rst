@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+77BET – Nhà Cái Hàng Đầu Châu Á với Uy Tín và Đa Dạng Trò Chơi
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`77BET <https://77betcasino.games/>`_ là một trong những nhà cái uy tín hàng đầu tại châu Á, với hơn 20 năm hoạt động và hàng triệu tài khoản đăng ký. 77BET được cấp phép hoạt động bởi các tổ chức lớn như Island Of Man và PAGCOR, đảm bảo tính hợp pháp và độ tin cậy. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+77BET cung cấp đa dạng thể loại cá cược, từ bắn cá, casino đến các môn thể thao, cùng với dịch vụ hỗ trợ tối tân. Người chơi đánh giá cao trải nghiệm tại 77BET với nhiều ý kiến tích cực, thu hút đông đảo người tham gia. Trang web chính thức của 77BET là 77betcassino.games, nơi người chơi có thể yên tâm tham gia mà không lo gặp phải các hệ thống giả mạo.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 2/22A Ấp 5, Đông Thạnh, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0775088796. 
 
-.. toctree::
+Email: info@77betcassino.games. 
 
-   usage
-   api
+Website: https://77betcasino.games/
+
+#77bet #trangchu77bet #dangky77bet #dangnhap77bet #link77bet
